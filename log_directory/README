@@ -1,0 +1,23 @@
+Contagem de logs bem sucedidas e que apresentaram algum erro
+    Esse projeto analisa requisições e faz a contagem dos logs que foram bem sucedidos e os que apresentaram erro
+
+Requisitos do sistema
+    para essa aplicação é necessário python 3.9, e não será necessário nenhuma biblioteca adicional
+
+Isntalação e execução 
+    Para executar o código é necessário:
+        -Copiar o repositório em sua máquina local
+        -Ir até a pasta raiz do projeto
+        -Executar o arquivo 'main.py'
+
+    Docker:
+     o Dockerfile está implementado entretanto ao dar a "build -t 'case_log.py' ." 
+     a ide me apresentou um erro, e era pior do que eu pensava infelizmente para corrigir o erro seria necessário ativar um setup na bios, 
+     porém não consigo acessar a bios do sistema,
+    por isso não consegui executar a aplicação em container 
+
+Agradecimentos:
+    Estou muito feliz em poder mostrar um pouco do meu conhecimento para vocês,
+     foi muito desafiador, entreguei o meu melhor fiz tudo ao meu alcance para poder
+      entregar esse case pra vocês e como sou grato pelo aprendizado que já tive, 
+      e no fim está aqui, conto com o feedback de vocês e estou aqui para esclarecer o que for preciso, muito obrigado 
